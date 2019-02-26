@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Apple",
+    "phoneModel": "iPhone Xs",
+    "price": 1155,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-gold-select-2018?wid=470&hei=556&fmt=png-alpha&.v=1541713822178",
+    "specs": "unibrow, expensive af, recognizes your face, no home button, Xs-ive"
+  },
+  {
+    "brand": "Huawei",
+    "phoneModel": "p20",
+    "price": 549,
+    "image": "https://bestengine.humanoid.fr/uploads/products/huawei-p20.png",
+    "specs": "always available, inconceivable, Grizou likes them"
+  }
+]
